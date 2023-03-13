@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChainOfResponsiblity_Design_Pattern", "ChainOfResponsiblity_Design_Pattern\ChainOfResponsiblity_Design_Pattern.csproj", "{BC1E0776-1E16-49CE-B5C3-6D6D9F9F92B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1E0776-1E16-49CE-B5C3-6D6D9F9F92B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1E0776-1E16-49CE-B5C3-6D6D9F9F92B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1E0776-1E16-49CE-B5C3-6D6D9F9F92B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1E0776-1E16-49CE-B5C3-6D6D9F9F92B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B879356-D3BB-49AA-9A52-4B962568A1F6}
+	EndGlobalSection
+EndGlobal
